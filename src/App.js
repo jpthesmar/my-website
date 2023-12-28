@@ -8,6 +8,7 @@ const NavigationBar = () => {
       <div className='navbar-left'> Joseph Thesmar</div>
       <div className='navbar-right'>
         <button>Work</button>
+        <button>Skills</button>
         <button>About</button>
         <button>Contact</button>
       </div>
